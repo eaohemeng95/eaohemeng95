@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Emmanuel Ohemeng 
 
-<!--
-**eaohemeng95/eaohemeng95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineer with professional experience in electrical maintenance and an academic background in electrical and electronic engineering.
 
-Here are some ideas to get you started:
+My technical interests include power systems optimization, artificial intelligence and machine learning, scientific computing, and reliability engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Research Interests:
+- Optimal power flow and power system optimization
+- Distributed generation and congestion management
+- AI/ML applications in electrical power systems
+- Predictive maintenance and equipment reliability
+- Smart grids and industrial automation
+
+Technical Skills & Tools:
+- Electrical Engineering: Electrical maintenance and reliability, fault diagnosis, equipment condition monitoring
+- Engineering Software: MATLAB, AutoCAD Electrical
+- Programming & Data Analysis: Python
+
+I'm interested in opportunities for research collaboration, technical learning, and engineering problem-solving.
+
 -->
